@@ -51,4 +51,4 @@ def frenchToEnglish(frenchText):
     return english_text['translations'][0]['translation']
 
 #Print results
-print(englishToFrench("hi"))
+#print(englishToFrench("hi"))
